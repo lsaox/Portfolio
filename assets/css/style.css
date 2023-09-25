@@ -99,6 +99,7 @@ a{
     display:flex;
     justify-content: center;
     margin-bottom: 3vh;
+
 }
 
 .primaryImg :hover{
@@ -110,6 +111,7 @@ a{
     gap:2vw;
     margin-bottom: 2vh;
 }
+.secondaryImg :hover{opacity: .75;}
 
 #contact{
     display: flex;
