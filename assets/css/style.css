@@ -27,7 +27,7 @@
     
     }
     
-    
+   
     
     .center
     {
@@ -83,8 +83,8 @@ a{
 }
 
 .content img{
-    border-radius: 40%;
-    border: 5px double darkblue;
+    border-radius: 70%;
+    border: 5px double rgb(0, 0, 0);
 }
 
 .content{
